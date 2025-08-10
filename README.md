@@ -8,9 +8,8 @@
 <p>Final-year Computer Engineering student (UCM), with experience in embedded systems, hardware/software design, data analysis, networks, among others. Participation in various academic projects. Proactive profile, focused on problem solving and continuous learning.</p>
 
 <h4>Contact me</h4>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+<a href="www.linkedin.com/in/alejandro-zamorano-mendez" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/> LinkedIn </a>
 
 
 <!--
