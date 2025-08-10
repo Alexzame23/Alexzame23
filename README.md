@@ -10,7 +10,7 @@
 </section> 
   <h3>Programming lenguages</h3>
   
-  [![Lenguages](https://skillicons.dev/icons?i=c,c++,java,vhdl,python,php,javascript,css,sql,assembly,flutter&perline=6)](https://skillicons.dev)
+  [![Lenguages](https://skillicons.dev/icons?i=c,cpp,java,vhdl,python,php,javascript,css,sql,assembly,flutter&perline=6)](https://skillicons.dev)
   
   <h3>Contact me</h3>  
 
