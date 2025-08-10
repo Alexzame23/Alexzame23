@@ -14,7 +14,7 @@
   
   <h3>Contact me</h3>  
   <a href = https://www.linkedin.com/in/alejandro-zamorano-m%C3%A9ndez-779190169/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="cplusplus" width="40" height="40" />
   </a>
  
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alejandro-zamorano-m%C3%A9ndez-779190169/)
