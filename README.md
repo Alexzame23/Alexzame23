@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Zamorano Méndez</h1>
 <h3 align="center">Student of <a href=https://www.ucm.es/estudios/grado-ingenieriadecomputadores>Computer Engeniering</a> at the <a href=https://informatica.ucm.es/>Faculty of Informatics</a> at  <a href=https://www.ucm.es/>UCM</a>, Madrid, Spain🌟.</h3>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture><img src = "[https://github.com/](https://github.com/Alexzame23/Alexzame23/blob/main/images/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif)" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
