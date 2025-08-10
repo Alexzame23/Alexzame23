@@ -58,6 +58,12 @@
   <br>
     :small_blue_diamond:  SI (Smart systems/Sistemas inteligentes)
   </p>
+  <h3> Optional subjects </h3>
+  <p> 
+    :small_blue_diamond: <a href="https://github.com/GHCandd/fdi-soc-L5"> SOC</a> (Social network analysis/Analisis de redes sociales)
+  <br>
+    :small_blue_diamond: PAD (Application programming for mobile devices/Programacion de aplicaciones para dispositivos moviles)
+  </p>
 
 </section>
 
