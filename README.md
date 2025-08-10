@@ -10,16 +10,24 @@
 </section> 
   <h3>Programming lenguages</h3>
   
-  [![Lenguages](https://skillicons.dev/icons?i=c,cpp,java,vhdl,python,php,javascript,css,sql,assembly,flutter&perline=6)](https://skillicons.dev)
+  <p> :small_orange_diamond: C: Software de bajo nivel y sistemas embebidos (Eclipse, Vitis, GCC)
+      <br>
+      :small_orange_diamond: C++: Algoritmos y estructuras de datos (VS Code, VS Studio)
+      <br>
+      :small_orange_diamond: Java: Programación orientada a objetos (IntelliJ, Eclipse)
+      <br>
+      :small_orange_diamond: VHDL: Diseño y simulación de hardware en FPGA (Vivado)
+      <br>
+      :small_orange_diamond: Python: Análisis de datos, web scrapping e IA (VS Code, Jupyter Notebook)
+      <br>
+      :small_orange_diamond: PHP, JavaScript y CSS: Diseño y desarrollo web (VS Code) 
+      <br>
+      :small_orange_diamond: SQL: Modelado y gestión de BBDD (SQLite, MySQL)
+      <br>
+      :small_orange_diamond: Ensamblador: Software bajo nivel para arquitecturas ARM o Risc-V (Eclipse)
+  </p>
   
   <h3>Contact me</h3>  
-  <a href = https://www.linkedin.com/in/alejandro-zamorano-m%C3%A9ndez-779190169/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href = mailto:alejazam@ucm.es>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/email/email-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
- 
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alejandro-zamorano-m%C3%A9ndez-779190169/)
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:alejazam@ucm.es)
 
