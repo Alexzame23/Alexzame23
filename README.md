@@ -9,7 +9,7 @@
 
 <h4>Contact me</h4>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/alejandro-zamorano-mendez)
 
 
 <!--
