@@ -9,7 +9,7 @@
 
 <h4>Contact me</h4>
 <a href="www.linkedin.com/in/alejandro-zamorano-mendez" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/> LinkedIn </a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) LinkedIn </a>
 
 
 <!--
