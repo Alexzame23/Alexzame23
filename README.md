@@ -42,6 +42,22 @@
   <br>
     :small_blue_diamond: <a href="https://github.com/Matzull/Zamazor"> IS2</a> (Software engineering II/Ingenieria del software II)
   </p>
+  <h3> Third year </h3>
+  <p> 
+    :small_blue_diamond: <a href="https://github.com/Alexzame23/DA"> DA</a> (Algorithm design/Diseño de algoritmos)
+  <br>
+    :small_blue_diamond: <a href="https://github.com/Alexzame23/PSyD"> PSyD</a> (Embedded systems programming/Programacion de sistemas y dispositivos)
+  <br>
+    :small_blue_diamond: <a href="https://github.com/marcosgcr3/SW"> SW</a> (Web systems/Sistemas web)
+  </p>
+  <h3> Fourth year </h3>
+  <p> 
+    :small_blue_diamond: <a href="https://github.com/Alexzame23/SE"> SE</a> (Embedded systems/Sistemas empotrados)
+  <br>
+    :small_blue_diamond: <a href="https://github.com/MeraKy43/PSD"> PSD</a> (Programming of distributed systems)
+  <br>
+    :small_blue_diamond:  SI (Smart systems/Sistemas inteligentes)
+  </p>
 
 </section>
 
