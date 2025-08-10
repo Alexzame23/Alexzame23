@@ -7,7 +7,7 @@
 
 <p>Final-year Computer Engineering student (UCM), with experience in embedded systems, hardware/software design, data analysis, networks, among others. Participation in various academic projects. Proactive profile, focused on problem solving and continuous learning.</p>
 
-<h4>Contact me</h4>
+<h3>Contact me</h3>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alejandro-zamorano-m%C3%A9ndez-779190169/)
 
