@@ -18,9 +18,9 @@
   <h2> University projects </h2>
   <h3> Second year </h3>
   <p> 
-    <a href="https://github.com/Alexzame23/TP1"> :small_blue_diamond: TP1(Programming technology I/Tecnologia de la programacion I)</a>
+    :small_blue_diamond: <a href="https://github.com/Alexzame23/TP1"> TP1</a> (Programming technology I/Tecnologia de la programacion I)
   <br>
-    <a href="https://github.com/Alexzame23/TP2"> :small_blue_diamond: TP2(Programming technology II/Tecnologia de la programacion II)</a>
+    :small_blue_diamond: <a href="https://github.com/Alexzame23/TP2"> TP2</a> (Programming technology II/Tecnologia de la programacion II)
   </p>
 
 </section>
