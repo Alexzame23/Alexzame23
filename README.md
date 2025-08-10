@@ -5,8 +5,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
-
 <p>Final-year Computer Engineering student (UCM), with experience in embedded systems, hardware/software design, data analysis, networks, among others. Participation in various academic projects. Proactive profile, focused on problem solving and continuous learning.</p>
 
 
